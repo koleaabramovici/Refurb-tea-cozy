@@ -1,0 +1,26 @@
+@import 'config';
+@import 'header';
+@import 'first-box';
+@import 'flex-box';
+@import 'last-box';
+@import 'footer';
+
+
+* {
+  color: $color;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  background-color: $bg-color;
+  opacity: 0.9;
+}
+
+
+
+
+
+
+
+
